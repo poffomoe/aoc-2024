@@ -20,3 +20,6 @@ After you've done that, you can run solutions of each day using
 cargo run -p day_X
 ```
 
+## Notes
+
+> Day 3 was helpful. Working wih regex in Rust was something that I thought would be very simple but it was less simple than I expected. Yes regex is pretty slow and I could have coded a fast pattern matching of some sort using only std but I don't think it is worth the hassle for such a small program.
